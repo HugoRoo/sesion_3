@@ -1,0 +1,19 @@
+
+
+
+#leftSideCard {
+    background-color: #1A1939;
+    color: white;
+    width: 50%;
+}
+
+#rigthSideCard {
+    color: white
+    width: 50%;
+}
+
+.card-container {
+    display: flex;
+    flex-direction: row;
+
+}
